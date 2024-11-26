@@ -9,28 +9,28 @@
 - [/etc - (etcetera) конфигурационные файлы](#etc)
 - [/dev - (devices) файлы устройств](#dev)
 - [/proc - (proccess) информация о процессах](#proc)
-- [/var (variable) - Переменные файлы](#var)
-- [/var/log - Файлы логов](#var-log)
+- [/var (variable) - переменные файлы](#var)
+- [/var/log - файлы логов](#var-log)
 - [/var/lib - базы данных](#var-lib)
 - [/var/mail - почта](#var-mail)
 - [/var/spool - очереди](#var-spool)
 - [/var/lock - файлы блокировок](#var-lock)
 - [/var/run - PID процессов](#var-run)
-- [/tmp (temp) - Временные файлы](#tmp)
+- [/tmp (temp) - временные файлы](#tmp)
 - [/usr - (user applications) Программы пользователя](#usr)
-- [/usr/bin/ - Исполняемые файлы](#usr-bin)
+- [/usr/bin/ - исполняемые файлы](#usr-bin)
 - [/usr/sbin/](#usr-sbin)
-- [/usr/lib/ - Библиотеки](#usr-lib)
-- [/usr/local - Файлы пользователя](#usr-local)
-- [/home - Домашняя папка](#home)
-- [/boot - Файлы загрузчика](#boot)
-- [/lib (library) - Системные библиотеки](#lib)
-- [/opt (Optional applications) - Дополнительные программы](#opt)
-- [/mnt (mount) - Монтирование](#mnt)
-- [/media - Съемные носители](#media)
-- [/srv (server) - Сервер](#srv)
+- [/usr/lib/ - библиотеки](#usr-lib)
+- [/usr/local - файлы пользователя](#usr-local)
+- [/home - домашняя папка](#home)
+- [/boot - файлы загрузчика](#boot)
+- [/lib (library) - системные библиотеки](#lib)
+- [/opt (Optional applications) - дополнительные программы](#opt)
+- [/mnt (mount) - монтирование](#mnt)
+- [/media - съемные носители](#media)
+- [/srv (server) - сервер](#srv)
 - [/run - процессы](#run)
-- [/sys (system) - Информация о системе](#sys)
+- [/sys (system) - информация о системе](#sys)
 
 ------------------------------
 
@@ -70,13 +70,13 @@
 ------------------------------
 
 
-## <a id="var">/var (variable) - Переменные файлы</a>
+## <a id="var">/var (variable) - переменные файлы</a>
 
 
 ------------------------------
 
 
-## <a id="var-log">/var/log - Файлы логов</a>
+## <a id="var-log">/var/log - файлы логов</a>
 
 
 ------------------------------
