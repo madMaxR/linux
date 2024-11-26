@@ -40,13 +40,13 @@ Some content
 
 ------------------------------
 
-## <a id="root-dir">/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)</a>
+## <a id="root-dir">/ - (root)</a>
 
 
 ------------------------------
 
 
-## <a id="bin">/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя</a>
+## <a id="bin">/bin - (binaries) бинарные файлы пользователя</a>
 
 
 ------------------------------
