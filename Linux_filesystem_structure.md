@@ -3,12 +3,6 @@
 
 ------------------------------
 
-[Some title 1](#some-title-1)
-
-## Some Title 1
-Some content
-
-
 - [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#root-dir)
 - [/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя](#bin)
 - [/sbin - (system binaries) системные исполняемые файлы](#sbin)
