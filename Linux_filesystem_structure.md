@@ -3,8 +3,8 @@
 
 ------------------------------
 
-- [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#root)
-- [/bin &nbsp;- (binaries) бинарные файлы пользователя](#binaries)
+- [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#root)
+- [/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя](#binaries)
 - /sbin - (system binaries) системные исполняемые файлы
 - /etc - (etcetera) конфигурационные файлы
 - /dev - (devices) файлы устройств
