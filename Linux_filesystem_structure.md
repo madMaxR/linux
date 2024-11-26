@@ -9,7 +9,7 @@
 Some content
 
 
-- [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#/-root)
+- [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#root-dir)
 - [/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя](#binaries)
 - /sbin - (system binaries) системные исполняемые файлы
 - /etc - (etcetera) конфигурационные файлы
@@ -40,7 +40,7 @@ Some content
 
 ------------------------------
 
-## / - root
+## / - root dir
 
 
 ------------------------------
