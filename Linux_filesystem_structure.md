@@ -3,9 +3,9 @@
 
 ------------------------------
 
-- [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#root-dir)
-- [/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя](#bin)
-- [/sbin &nbsp;- (system binaries) системные исполняемые файлы](#sbin)
+- [/ - (root)](#root-dir)
+- [/bin - (binaries) бинарные файлы пользователя](#bin)
+- [/sbin - (system binaries) системные исполняемые файлы](#sbin)
 - [/etc - (etcetera) конфигурационные файлы](#etc)
 - [/dev - (devices) файлы устройств](#dev)
 - [/proc - (proccess) информация о процессах](#proc)
