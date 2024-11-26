@@ -4,7 +4,7 @@
 ------------------------------
 
 - [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#root)
-- [/bin &nbsp; - (binaries) бинарные файлы пользователя](#binaries)
+- [/bin &nbsp;- (binaries) бинарные файлы пользователя](#binaries)
 - /sbin - (system binaries) системные исполняемые файлы
 - /etc - (etcetera) конфигурационные файлы
 - /dev - (devices) файлы устройств
