@@ -10,43 +10,43 @@ Some content
 
 
 - [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#root-dir)
-- [/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя](#binaries)
-- /sbin - (system binaries) системные исполняемые файлы
-- /etc - (etcetera) конфигурационные файлы
-- /dev - (devices) файлы устройств
-- /proc - (proccess) информация о процессах
-- /var (variable) - Переменные файлы
-- /var/log - Файлы логов
-- /var/lib - базы данных
-- /var/mail - почта
-- /var/spool - очереди
-- /var/lock - файлы блокировок
-- /var/run - PID процессов
-- /tmp (temp) - Временные файлы
-- /usr - (user applications) Программы пользователя
-- /usr/bin/ - Исполняемые файлы
-- /usr/sbin/
-- /usr/lib/ - Библиотеки
-- /usr/local - Файлы пользователя
-- /home - Домашняя папка
-- /boot - Файлы загрузчика
-- /lib (library) - Системные библиотеки
-- /opt (Optional applications) - Дополнительные программы
-- /mnt (mount) - Монтирование
-- /media - Съемные носители
-- /srv (server) - Сервер
-- /run - процессы
-- /sys (system) - Информация о системе
+- [/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя](#bin)
+- [/sbin - (system binaries) системные исполняемые файлы](#sbin)
+- [/etc - (etcetera) конфигурационные файлы](#etc)
+- [/dev - (devices) файлы устройств](#dev)
+- [/proc - (proccess) информация о процессах](#proc)
+- [/var (variable) - Переменные файлы](#var)
+- [/var/log - Файлы логов](#var-log)
+- [/var/lib - базы данных](#var-lib)
+- [/var/mail - почта](#var-mail)
+- [/var/spool - очереди](#var-spool)
+- [/var/lock - файлы блокировок](#var-lock)
+- [/var/run - PID процессов](#var-run)
+- [/tmp (temp) - Временные файлы](#tmp)
+- [/usr - (user applications) Программы пользователя](#usr)
+- [/usr/bin/ - Исполняемые файлы](#usr-bin)
+- [/usr/sbin/](#usr-sbin)
+- [/usr/lib/ - Библиотеки](#usr-lib)
+- [/usr/local - Файлы пользователя](#usr-local)
+- [/home - Домашняя папка](#home)
+- [/boot - Файлы загрузчика](#boot)
+- [/lib (library) - Системные библиотеки](#lib)
+- [/opt (Optional applications) - Дополнительные программы](#opt)
+- [/mnt (mount) - Монтирование](#mnt)
+- [/media - Съемные носители](#media)
+- [/srv (server) - Сервер](#srv)
+- [/run - процессы](#run)
+- [/sys (system) - Информация о системе](#sys)
 
 ------------------------------
 
-## <a id="root-dir">/ - (root)</a>
+## <a id="root-dir">/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)</a>
 
 
 ------------------------------
 
 
-## binaries
+## <a id="bin">/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя</a>
 
 
 ------------------------------
