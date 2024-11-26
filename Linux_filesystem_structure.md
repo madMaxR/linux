@@ -3,7 +3,7 @@
 
 ------------------------------
 
-- [/ &nbsp;&nbsp;- (root)](#root)
+- [/ &nbsp;&nbsp;&nbsp; - (root)](#root)
 - [/bin - (binaries) бинарные файлы пользователя](#binaries)
 - /sbin - (system binaries) системные исполняемые файлы
 - /etc - (etcetera) конфигурационные файлы
