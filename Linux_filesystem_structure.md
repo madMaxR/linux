@@ -3,7 +3,13 @@
 
 ------------------------------
 
-- [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#root)
+[Some title 1](#some-title-1)
+
+## Some Title 1
+Some content
+
+
+- [/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - (root)](#/-root)
 - [/bin &nbsp;&nbsp;- (binaries) бинарные файлы пользователя](#binaries)
 - /sbin - (system binaries) системные исполняемые файлы
 - /etc - (etcetera) конфигурационные файлы
@@ -34,7 +40,7 @@
 
 ------------------------------
 
-## [/-root](#root)
+## / - root
 
 
 ------------------------------
