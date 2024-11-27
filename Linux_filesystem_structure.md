@@ -25,7 +25,7 @@
 - [/home - домашняя папка](#home)
 - [/boot - файлы загрузчика](#boot)
 - [/lib - (library) системные библиотеки](#lib)
-- [/opt - (Optional applications) дополнительные программы](#opt)
+- [/opt - (optional applications) дополнительные программы](#opt)
 - [/mnt - (mount) монтирование](#mnt)
 - [/media - съемные носители](#media)
 - [/srv - (server) сервер](#srv)
@@ -172,7 +172,7 @@
 
 
 
-## <a id="opt">/opt - (Optional applications) дополнительные программы</a>
+## <a id="opt">/opt - (optional applications) дополнительные программы</a>
 
 
 ------------------------------
